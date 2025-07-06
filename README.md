@@ -64,7 +64,7 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/khalid-al-kurdi" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="120" height="75" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="95" height="50" alt="linkedin logo"  />
   </a>
 </div>
 
